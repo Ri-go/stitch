@@ -1,5 +1,10 @@
 # stitch
 
+> [!IMPORTANT]
+> This repository is archived. Development has moved to
+> **[InjectiveLabs/stitch](https://github.com/InjectiveLabs/stitch)**.
+> Please open new issues and pull requests there.
+
 > A height-aware multi-protocol gateway for Cosmos and Injective node fleets.
 
 stitch sits in front of any number of upstream nodes — full archives, bounded
